@@ -5,7 +5,9 @@ Works best with [gruvbox terminal colors](https://github.com/morhetz/gruvbox-gen
 
 ###Usage
 Copy to `~/.config/profanity/themes`
+
 In `profanity`:
+
   `/theme load gruvbox`
   
 ###Screenshot
